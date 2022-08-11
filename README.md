@@ -19,11 +19,11 @@ A Landing Page foi desenvolvida utilizando as seguintes tecnologias:
 
 ## Conceitos e Práticas trabalhadas:
 
-1. Diferentes convenções de codificação.
-  *Camelcase
-  *Snake_case
-  *Kebab-case
-  
+1. Diferentes convenções de codificação. 
+   - Camelcase
+   - Kabeb-case
+   - Snake_case
+ 
 2. Introdução dos conceitos de acessibilidade e semântica.
 
 3. A importação e linkagem das fontes disponíveis no Google Fonts.
