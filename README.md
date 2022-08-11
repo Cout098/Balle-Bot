@@ -8,8 +8,7 @@ Esse projeto foi desenvolvido em maio de 2022 assistindo um vídeo da Rafaella B
 O vídeo em questão nos desafiava e mostrava os passos para se criar uma Landing Page, que tinha como principal objetivo apresentar um robô para chats do Discord.
 
 ## Como ficou:
-
-<img scr="./Print-ballebot.png">
+![Print da página](https://github.com/Cout098/Balle-Bot/blob/177cf271d8d389670cf0f6f79b2efc5ce3a7029e/Print-ballebot.png)
 
 ## Tecnologias usadas:
 
