@@ -7,6 +7,10 @@
 Esse projeto foi desenvolvido em maio de 2022 assistindo um vídeo da Rafaella Ballerini.
 O vídeo em questão nos desafiava e mostrava os passos para se criar uma Landing Page, que tinha como principal objetivo apresentar um robô para chats do Discord.
 
+## Como ficou:
+
+<img scr="./Print-ballebot.png">
+
 ## Tecnologias usadas:
 
 A Landing Page foi desenvolvida utilizando as seguintes tecnologias:
